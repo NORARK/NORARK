@@ -37,3 +37,8 @@
 - 📫 How to reach me ...
   * Twitter DM: [@NORARK](https://twitter.com/N0RARK)
   * Discord DM: NORARK#6695
+
+- Links
+  * [Founder of Art | Foundation](https://foundation.app/@NORARK)
+  * [ROUGH SKETCH POP | OpenSea](https://opensea.io/collection/norark--rough-sketch-pop)
+  * [Other Links](https://lit.link/norark)
