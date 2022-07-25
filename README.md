@@ -1,3 +1,5 @@
+[日本語版](https://github.com/NORARK/NORARK/blob/main/README_JA.md)
+
 - 👋 Hi, I’m @NORARK
   * I am a front-end web engineer. I have been building corporate websites using markup and vanilla JS (using ES5 and Babel) for 4 years. For the past few years, I have been building web services mainly using TypeScript and React.
   * I have also been painting for many years. Recently, I have been making NFTs.
