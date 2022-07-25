@@ -4,7 +4,7 @@
   * I am a front-end web engineer. I have been building corporate websites using markup and vanilla JS (using ES5 and Babel) for 4 years. For the past few years, I have been building web services mainly using TypeScript and React.
   * I have also been painting for many years. Recently, I have been making NFTs.
   * **Front-end web engineer**
-    * As a front-end engineer (markup and css/JS), my name was once featured in a magazine called [BRAIN](https://www.sendenkaigi.com/english/) (*1) for a project involving a fun campaign website that used animation.
+    * As a front-end engineer (markup, CSS, Sass/JS), my name was once featured in a magazine called [BRAIN](https://www.sendenkaigi.com/english/) (*1) for a project involving a fun campaign website that used animation.
       * *1 Advertising and creative magazine first published in 1961.
     * Together with other personnel, I was responsible for the markup of the site that won the Awwwards and CSS Winner.
   * **Artist, Illustrator**
