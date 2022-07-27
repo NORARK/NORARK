@@ -49,7 +49,7 @@ If there are no notes in the NFT description, the content of the following link 
 
 ## もしあなたのアカウントがハッキングされたら、NFTのために何をしますか？
 
-同じアートワークでもう一度ミントしてみます。  
+同じアートワークでもう一度mintします。  
 私はホルダーに連絡が取れればtransferしていいかを確認してtransferします。連絡可能でない場合はtransferを行います。
 ホルダーがこの対応を望まないことを事前に聞いている場合は、いかなる理由でもmintは行いません。
 
