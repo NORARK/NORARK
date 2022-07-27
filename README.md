@@ -41,6 +41,7 @@
   * Discord DM: NORARK#6695
 
 - Links
+  * [attitude-toward-creative.md](https://github.com/NORARK/NORARK/blob/main/attitude-toward-creative.md) (like a ROADMAP?)
   * [Founder of Art | Foundation](https://foundation.app/@NORARK)
   * [ROUGH SKETCH POP | OpenSea](https://opensea.io/collection/norark--rough-sketch-pop)
   * [Other Links](https://lit.link/norark)
