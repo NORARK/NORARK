@@ -18,6 +18,9 @@
       * [Generativemasks Tweet](https://twitter.com/generativemasks/status/1460514636831158277)
     * Nouns DAO [Proposal 40](https://nouns.wtf/vote/40) The Skatepark Project x Nouns -> **選出されたデザイナー**
       * [NounsDAO Newsletter](https://nouns.substack.com/p/brush-up-your-sk8ing-skills-the-decks?s=r)
+      * [Two Grey Hills, New Mexico on Navajo Nationのコミュニティ、青少年向けサマープログラムへの寄贈](https://twitter.com/apenoun/status/1561047563784028162)
+      * https://twitter.com/bigshottoyworks/status/1561372068909834246
+
 
 - 👀 興味があるのは ...
   * Web
