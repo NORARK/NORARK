@@ -1,7 +1,7 @@
 [日本語版](https://github.com/NORARK/NORARK/blob/main/README_JA.md)
 
 - 👋 Hi, I’m @NORARK
-  * I am a front-end web engineer. I have been building corporate websites using markup and vanilla JS (using ES5 and Babel) for 4 years. For the past few years, I have mainly used TypeScript and React for the front-end implementation of web apps (SaaS).
+  * I am a web front-end engineer. I have been building corporate websites using markup, CSS, and vanilla JS for about 4 years. Then for the last few years, I've been doing front-end implementations for web apps (SaaS), mainly using TypeScript and React.
   * I have also been painting for many years. Recently, I have been making NFTs.
   * **Front-end web engineer**
     * As a front-end engineer (markup, CSS, Sass / JS), my name was once featured in a magazine called [BRAIN](https://www.sendenkaigi.com/english/) (*1) for a project involving a fun campaign website that used animation.
